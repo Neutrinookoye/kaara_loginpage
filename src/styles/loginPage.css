@@ -1,0 +1,33 @@
+.login {
+	background: #f5f6f8;
+	padding-bottom: 1.2rem;
+	position: relative;
+}
+.login .top_image {
+	position: absolute;
+	top: 6rem;
+	right: 0;
+	width: 20.37rem;
+}
+.login .bot_image {
+	position: absolute;
+	bottom: 0;
+	left: 2rem;
+	width: 20.7rem;
+}
+@media (max-width: 767px) {
+	.login .top_image {
+		width: 17rem;
+	}
+	.login .bot_image {
+		width: 16rem;
+	}
+}
+@media (max-width: 767px) {
+	.login .top_image {
+		width: 14rem;
+	}
+	.login .bot_image {
+		width: 14rem;
+	}
+}

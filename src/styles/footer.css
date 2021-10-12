@@ -1,0 +1,16 @@
+.footer {
+	margin-top: 7rem;
+}
+.footer p,
+.footer a {
+	font-weight: normal;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: 1.2;
+	letter-spacing: normal;
+	text-align: center;
+	color: #a9a9a9;
+	font-size: 15px;
+	font-family: 'Rubik', sans-serif;
+	z-index: 9999;
+}
